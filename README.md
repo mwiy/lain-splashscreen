@@ -1,2 +1,2 @@
-# lain-splashscreen
-kde custom splashscreen for linux
+# :p
+just a splashscreen xd
