@@ -1,2 +1,2 @@
-# :p
-just a splashscreen xd
+# x_x
+
